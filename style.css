@@ -1,13 +1,11 @@
 @import url('https://fonts.google.com/share?selection.family=Host+Grotesk:ital,wght@0,300..800;1,300..800|Raleway:ital,wght@0,100..900;1,100..900');
 
 :root {
-    --bg-color: #2    header {background-color: var(--primary-color);backgrbackgrbackgroundbackground-color: var(--primary-color);
-        b4368;
+    --bg-color: #2b4368;
     --primary-color: #DDDDDD;
     --secondary-color: #3b757c;
     --font: "Raleway", sans-serif;
     }
-}
 
 body {
     background-color: var(--bg-color);
